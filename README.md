@@ -1,2 +1,2 @@
 # Choose-Your-Own-Adventure
-Simple Choose Your Own Adventure game made for an old schoolmate's birthday
+Just run and follow the game. Will probably only make sense if you had gone to AJC. Tell me if there are bugs :D
